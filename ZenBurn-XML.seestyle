@@ -16,7 +16,7 @@
   <style id="/XML/Escape"
     color="#236e25" inverted-color="#efef8e"  font-style="italic" font-weight="normal" />
   <style id="/XML/Tags"
-    color="#881280" inverted-color="#e89393"  font-style="italic" font-weight="normal" />
+    color="#881280" inverted-color="#f0dfaf"  font-style="italic" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
     color="#994500" inverted-color="#f0efd0"  font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
